@@ -1,6 +1,4 @@
-<p align="center">
-  <i>A wandering engineer who writes code on the road.</i>
-</p>
+
 
 ### 🧊 About Me
 
