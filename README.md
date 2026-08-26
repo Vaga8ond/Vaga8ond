@@ -1,9 +1,7 @@
 <div style="font-family:'Inter',-apple-system,'Segoe UI','PingFang SC',sans-serif;max-width:920px;margin:0 auto;padding:28px 20px 20px;background:linear-gradient(160deg,#EEF0F5 0%,#F8F9FA 100%);border-radius:20px;border:1px solid rgba(224,224,224,0.8);position:relative;overflow:hidden">
   <!-- 背景光晕 -->
   <div style="position:absolute;inset:0;pointer-events:none;background:radial-gradient(ellipse 60% 40% at 85% 0%,rgba(255,107,53,0.07) 0%,transparent 60%),radial-gradient(ellipse 50% 40% at 5% 100%,rgba(74,144,226,0.07) 0%,transparent 60%)"></div>
-
   <div style="position:relative">
-
     <!-- ═══ HEADER CARD ═══ -->
     <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:24px;background:rgba(255,255,255,0.90);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border:1px solid rgba(224,224,224,0.80);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.05);padding:20px 24px;margin-bottom:20px">
       <div style="display:flex;flex-direction:column;gap:6px">
@@ -20,7 +18,6 @@
         <span style="font-family:ui-monospace,'JetBrains Mono','SF Mono',Menlo,monospace;font-size:10px;color:rgba(102,102,102,0.70)">open to work · remote</span>
       </div>
     </div>
-
     <!-- ═══ SUMMARY ═══ -->
     <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px">
       <span style="font-size:16px;font-weight:700;color:#1A1A2E;white-space:nowrap">Summary</span>
@@ -29,7 +26,6 @@
     <div style="background:rgba(255,255,255,0.90);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border:1px solid rgba(224,224,224,0.80);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.05);padding:16px 20px;margin-bottom:20px">
       <p style="margin:0;font-size:14px;color:#333333;line-height:1.6">AI Agent Developer building autonomous systems — from single-tool LLM chains to distributed multi-agent pipelines. Deep in the LangGraph / AutoGen / CrewAI ecosystem, shipping retrieval-augmented agents, automation tooling, and self-hosted infrastructure. Loves turning complex problems into <span style="font-family:ui-monospace,'JetBrains Mono','SF Mono',Menlo,monospace;font-size:13px;font-weight:600;color:#FF6B35">simple, reliable systems</span>.</p>
     </div>
-
     <!-- ═══ SKILLS ═══ -->
     <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px">
       <span style="font-size:16px;font-weight:700;color:#1A1A2E;white-space:nowrap">Skills</span>
@@ -42,7 +38,6 @@
       <div style="display:flex;align-items:center;gap:10px"><span style="width:76px;font-size:11px;font-weight:600;color:rgba(102,102,102,0.70);letter-spacing:0.03em;flex-shrink:0">Tooling</span><div style="display:flex;flex-wrap:wrap;gap:6px"><span style="display:inline-flex;align-items:center;border-radius:12px;border:1px solid rgba(224,224,224,0.80);background:rgba(255,255,255,0.90);font-family:ui-monospace,'JetBrains Mono','SF Mono',Menlo,monospace;font-size:11px;padding:4px 12px;color:#333;font-weight:500">LangSmith</span><span style="display:inline-flex;align-items:center;border-radius:12px;border:1px solid rgba(224,224,224,0.80);background:rgba(255,255,255,0.90);font-family:ui-monospace,'JetBrains Mono','SF Mono',Menlo,monospace;font-size:11px;padding:4px 12px;color:#333;font-weight:500">Pydantic AI</span><span style="display:inline-flex;align-items:center;border-radius:12px;border:1px solid rgba(224,224,224,0.80);background:rgba(255,255,255,0.90);font-family:ui-monospace,'JetBrains Mono','SF Mono',Menlo,monospace;font-size:11px;padding:4px 12px;color:#333;font-weight:500">Pytest</span><span style="display:inline-flex;align-items:center;border-radius:12px;border:1px solid rgba(224,224,224,0.80);background:rgba(255,255,255,0.90);font-family:ui-monospace,'JetBrains Mono','SF Mono',Menlo,monospace;font-size:11px;padding:4px 12px;color:#333;font-weight:500">GitHub Actions</span></div></div>
       <div style="display:flex;align-items:center;gap:10px"><span style="width:76px;font-size:11px;font-weight:600;color:rgba(102,102,102,0.70);letter-spacing:0.03em;flex-shrink:0">Infra</span><div style="display:flex;flex-wrap:wrap;gap:6px"><span style="display:inline-flex;align-items:center;border-radius:12px;border:1px solid rgba(224,224,224,0.80);background:rgba(255,255,255,0.90);font-family:ui-monospace,'JetBrains Mono','SF Mono',Menlo,monospace;font-size:11px;padding:4px 12px;color:#333;font-weight:500">Docker</span><span style="display:inline-flex;align-items:center;border-radius:12px;border:1px solid rgba(224,224,224,0.80);background:rgba(255,255,255,0.90);font-family:ui-monospace,'JetBrains Mono','SF Mono',Menlo,monospace;font-size:11px;padding:4px 12px;color:#333;font-weight:500">Kubernetes</span><span style="display:inline-flex;align-items:center;border-radius:12px;border:1px solid rgba(224,224,224,0.80);background:rgba(255,255,255,0.90);font-family:ui-monospace,'JetBrains Mono','SF Mono',Menlo,monospace;font-size:11px;padding:4px 12px;color:#333;font-weight:500">Terraform</span><span style="display:inline-flex;align-items:center;border-radius:12px;border:1px solid rgba(224,224,224,0.80);background:rgba(255,255,255,0.90);font-family:ui-monospace,'JetBrains Mono','SF Mono',Menlo,monospace;font-size:11px;padding:4px 12px;color:#333;font-weight:500">Self-hosted</span></div></div>
     </div>
-
     <!-- ═══ STATS ═══ -->
     <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px">
       <span style="font-size:16px;font-weight:700;color:#1A1A2E;white-space:nowrap">GitHub Stats</span>
@@ -53,14 +48,12 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaga8ond&layout=compact&bg_color=00000000&hide_border=true&title_color=FF6B35&text_color=333333" alt="Top Languages">
       <img src="https://streak-stats.demolab.com/?user=Vaga8ond&theme=transparent&hide_border=true&fire=FF6B35&ring=FF8C42&text_color=333333" alt="Streak">
     </div>
-
     <!-- ═══ PROJECTS ═══ -->
     <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px">
       <span style="font-size:16px;font-weight:700;color:#1A1A2E;white-space:nowrap">Projects</span>
       <div style="flex:1;height:2px;border-radius:1px;opacity:0.5;background:linear-gradient(90deg,#FF6B35 0%,#FF8C42 100%)"></div>
     </div>
     <div style="display:flex;flex-direction:column;gap:12px;margin-bottom:20px">
-
       <!-- Project 1 -->
       <div style="background:rgba(255,255,255,0.90);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border:1px solid rgba(224,224,224,0.80);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.05);padding:16px 20px;display:flex;flex-direction:column;gap:12px">
         <div style="display:flex;justify-content:space-between;align-items:flex-start">
@@ -81,7 +74,6 @@
         </div>
         <p style="margin:0;font-family:ui-monospace,'JetBrains Mono','SF Mono',Menlo,monospace;font-size:10px;color:rgba(102,102,102,0.70)">Node.js · WebSocket · dockerode · health probes</p>
       </div>
-
       <!-- Project 2 -->
       <div style="background:rgba(255,255,255,0.90);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border:1px solid rgba(224,224,224,0.80);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.05);padding:16px 20px;display:flex;flex-direction:column;gap:12px">
         <div style="display:flex;justify-content:space-between;align-items:flex-start">
@@ -101,7 +93,6 @@
         </div>
         <p style="margin:0;font-family:ui-monospace,'JetBrains Mono','SF Mono',Menlo,monospace;font-size:10px;color:rgba(102,102,102,0.70)">SKILL.md · pi coding agent · extensible library</p>
       </div>
-
       <!-- Project 3 -->
       <div style="background:rgba(255,255,255,0.90);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border:1px solid rgba(224,224,224,0.80);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.05);padding:16px 20px;display:flex;flex-direction:column;gap:12px">
         <div style="display:flex;justify-content:space-between;align-items:flex-start">
@@ -121,9 +112,7 @@
         </div>
         <p style="margin:0;font-family:ui-monospace,'JetBrains Mono','SF Mono',Menlo,monospace;font-size:10px;color:rgba(102,102,102,0.70)">three.js · infinite scroll · photography</p>
       </div>
-
     </div>
-
     <!-- ═══ FOOTER ═══ -->
     <div style="display:flex;justify-content:space-between;align-items:center;border-top:1px solid #E0E0E0;padding-top:12px">
       <div style="display:flex;align-items:baseline;gap:6px">
@@ -136,6 +125,5 @@
         <div style="width:20px;height:1.5px;border-radius:1px;background:linear-gradient(90deg,#FF6B35 0%,#FF8C42 100%)"></div>
       </div>
     </div>
-
   </div>
 </div>
