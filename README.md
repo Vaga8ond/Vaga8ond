@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" width="100%" alt="Vaga8ond — Frosted Glass Profile">
+  <i>流浪的工程师 · 在路上的写码人</i>
 </p>
 
 ### 🧊 关于我 / About
