@@ -1,21 +1,19 @@
 <p align="center">
-  <i>流浪的工程师 · 在路上的写码人</i>
+  <i>A wandering engineer who writes code on the road.</i>
 </p>
 
-### 🧊 关于我 / About
+### 🧊 About Me
 
-> 在路上写代码的流浪工程师。喜欢把复杂的东西拆简单，把简单的东西做漂亮。
->
-> A wandering engineer who writes code on the road. I like shipping clean things.
+> I like breaking complex things down into simple ones, and making simple things beautiful.
 
-- 🔭 正在折腾：全栈 Web、自动化工具、自托管服务
-- 🌱 正在学习：Rust · 系统设计 · 让 README 好看的艺术
-- 💬 可以聊聊：前端 / Node / 运维 / 开源
-- ⚡ 兴趣：摄影 📷 · 咖啡 ☕ · 徒步 🥾
+- 🔭 Currently tinkering with: full-stack web, automation tooling, self-hosted services
+- 🌱 Currently learning: Rust · system design · the art of pretty READMEs
+- 💬 Ask me about: frontend / Node / DevOps / open source
+- ⚡ Interests: photography 📷 · coffee ☕ · hiking 🥾
 
 ---
 
-### 🛠️ 技术栈 / Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="34" title="TypeScript">
@@ -44,5 +42,5 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Vaga8ond.Vaga8ond" alt="visitors">
-  <br><sub>Vaga8ond · 2025 · Made with 🧊</sub>
+  <br><sub>Vaga8ond · 2025 · Built with 🧊</sub>
 </p>
