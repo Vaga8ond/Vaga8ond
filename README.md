@@ -1,6 +1,6 @@
 # Hi, I'm Vagabond 👋
 
-🚀 AI Agent Engineer · Cyber Security Engineer · Self-hosting tinkerer
+🚀 AI Agent Engineer · Cyber Security Engineer 
 
 - 📫 Email: [1162844453@qq.com](mailto:1162844453@qq.com)
 - 🌐 Blog: [vagab0nd.site](https://vagab0nd.site)
